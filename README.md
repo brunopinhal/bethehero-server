@@ -9,7 +9,7 @@ NodeJs - Be The Hero Server API
 
 <p align="center">
 <img alt="repository size" src="https://img.shields.io/github/repo-size/brunopinhal/bethehero-server">
-<img alt=GitHub top language" src="https://img.shields.io/github/languages/top/brunopinhal/bethehero-server">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brunopinhal/bethehero-server">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunopinhal/bethehero">
 
 <h3 align="center">
